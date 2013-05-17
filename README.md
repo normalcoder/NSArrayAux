@@ -1,0 +1,1 @@
+Auxilary methods for NSArray.
